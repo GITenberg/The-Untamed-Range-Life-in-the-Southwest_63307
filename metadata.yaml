@@ -1,0 +1,53 @@
+_repo: The-Untamed-Range-Life-in-the-Southwest_63307
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Jones, Haydon
+    deathdate: 1954
+    gutenberg_agent_id: '52371'
+    url: http://www.gutenberg.org/2009/agents/52371
+  - agent_name: Bull, Charles Livingston
+    birthdate: 1874
+    deathdate: 1932
+    gutenberg_agent_id: '9742'
+    url: http://www.gutenberg.org/2009/agents/9742
+    wikipedia: https://en.wikipedia.org/wiki/Charles_Livingston_Bull
+  - agent_name: Russell, Charles M. (Charles Marion)
+    aliases:
+    - Russell, Kid
+    - Russell, C. M. (Charles Marion)
+    - Russell, Charles Marion
+    - Russell, Charley
+    - Russell, Charlie
+    birthdate: 1864
+    deathdate: 1926
+    gutenberg_agent_id: '3000'
+    url: http://www.gutenberg.org/2009/agents/3000
+    wikipedia: https://en.wikipedia.org/wiki/Charles_Marion_Russell
+creator:
+  author:
+    agent_name: Pattullo, George
+    birthdate: 1879
+    deathdate: 1967
+    gutenberg_agent_id: '36933'
+    url: http://www.gutenberg.org/2009/agents/36933
+    wikipedia: https://en.wikipedia.org/wiki/George_Pattullo_(writer)
+description: ''
+gutenberg_issued: '2020-09-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63307'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories, Canadian'
+- !lcsh 'Animals -- Fiction'
+- GITenberg
+tableOfContents: Ol' Sam, a mule -- The marauder, a coyote -- Corazón, a roping horse
+  -- The outlaw, a steer -- Shiela, a wolfhound -- Molly, a range cow -- The baby
+  and the puma, mountain lion -- The mankiller, a jack -- Neutria, a mountain cowhorse.
+title: 'The Untamed: Range Life in the Southwest'
+url: http://www.gutenberg.org/ebooks/63307
